@@ -19,7 +19,7 @@ The main post in the threads contain various useful information, from links to s
 Every year of STEP papers from the specimen in 1983 to STEP 2017 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
 
 ## Specification changes
-STEP will be undergoing a new specification in 2019 onwards. This is no cause for alarm, the style of STEP will still be broadly similar, there will just be a rearrangement of content to tailor for the new A-Level linear syllabi. These past papers will still be instrumental in preparation and still very useful. 
+STEP will be undergoing a [specification change](https://www.admissionstesting.org/for-test-takers/step/about-step/) in 2019 onwards. This is no cause for alarm, the style of STEP will still be broadly similar, there will just be a rearrangement of content to tailor for the new A-Level linear syllabi. These past papers will still be instrumental in preparation and still very useful. 
 
 ## Markschemes
 The years that have official markschemes published have their markschemes included in the repository. I am working on adding various markschemes for years in which the markschemes were released via FoI requests or the like. 
