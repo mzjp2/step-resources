@@ -24,6 +24,8 @@ The [Cambridge STEP Support Programme](https://maths.org/step/) (that's a mouthf
 
 _Disclaimer:_ I am a mentor on the programme. 
 
+# Resources
+
 ## Question Papers
 Every year of STEP papers from the specimen in 1983 to STEP 2017 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
 
