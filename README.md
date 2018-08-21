@@ -1,7 +1,7 @@
 # STEP Resources
 This is a collation of freely and publicly available resources for STEP Prep collated into a useful central repository.You can download a zipped version of this repository here: https://github.com/mzjp2/step-resources/archive/master.zip
 
-## [Download this repository](https://github.com/mzjp2/step-resources/archive/master.zip)
+### [Download this repository](https://github.com/mzjp2/step-resources/archive/master.zip)
 
 ## STEP Prep Thread
 The current STEP Prep thread can be found here. Previous versions are listed below:
@@ -30,4 +30,4 @@ The old and new version of the booklets are named so because Siklos collated bot
 ## Question spreadsheet
 The STEP questions spreadsheet is meant to be printed and the relevant box ticked off when you complete that question. If you're keen, you may want to try colour coding your boxes (green for completed/yellow for so and so and red for having to come back to it). You can also potentially give yourself a tentative score out of 20 in the boxes as another idea. I found this useful when I was preparing for STEP, you of course, don't need to use it if you don't feel like. 
 
-## Good luck!
+### Good luck!
