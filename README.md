@@ -17,12 +17,12 @@ The current [STEP Prep Thread]() can be found [here](). Previous versions are li
 
 The main post in the threads contain various useful information, from links to solutions, to a FAQ and advice to anything else you could possibly want to know. If not, you may simply ask your question on the thread. 
 
-_Disclaimer:_ I am the thread owner and maintainer for the majority of the threads.
+_Disclaimer:_ I am the thread owner and maintainer for the majority of the threads. (Zacken)
 
 ## Cambridge STEP Support Programme
 The [Cambridge STEP Support Programme](https://maths.org/step/) (that's a mouthful) is a Cambridge-run initiative to help university applicants develop their advanced mathematical problem solving skills and prepare for the STEP examinations. They offer various assignments to ease you into the STEP style and can be a valuable resource. They also [have a forum](https://maths.org/step/forum) where anybody can participate. You are free to ask for help regarding any of the assignments or STEP on there. 
 
-_Disclaimer:_ I am a mentor on the programme. 
+_Disclaimer:_ I am a mentor on the programme. (mzjp2)
 
 # Resources
 
