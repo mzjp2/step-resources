@@ -1,5 +1,5 @@
 # STEP Resources
-This is a collation of freely and publicly available resources for STEP Prep collated into a useful central repository.You can download a zipped version of this repository here: https://github.com/mzjp2/step-resources/archive/master.zip
+This is a collation of freely and publicly available resources for STEP Prep collated into a useful central repository by Zain Patel. You can download a zipped version of this repository here: https://github.com/mzjp2/step-resources/archive/master.zip
 
 ### [Download this repository](https://github.com/mzjp2/step-resources/archive/master.zip)
 
