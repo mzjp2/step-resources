@@ -48,6 +48,16 @@ The STEP questions spreadsheet is meant to be printed and the relevant box ticke
 
 ### Graphs
 
+#### STEP I boundaries
 
+![STEP I Boundary graph](https://github.com/mzjp2/step-resources/raw/master/Assets/step-1-chart.png)
+
+#### STEP II boundaries
+
+![STEP I Boundary graph](https://github.com/mzjp2/step-resources/raw/master/Assets/step-2-char.png)
+
+#### STEP III boundaries
+
+![STEP I Boundary graph](https://github.com/mzjp2/step-resources/raw/master/Assets/step-3-chart.png)
 
 ### Good luck!
