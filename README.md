@@ -44,6 +44,6 @@ The STEP questions spreadsheet is meant to be printed and the relevant box ticke
 # Grade Boundaries
 ## Table Form
 
-[Table of Boundaries](https://github.com/mzjp2/step-resources/raw/master/Assets/Boundaries%20Table.png)
+![Table of Boundaries](https://github.com/mzjp2/step-resources/raw/master/Assets/Boundaries%20Table.png)
 
 ### Good luck!
