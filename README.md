@@ -41,9 +41,13 @@ The old and new version of the booklets are named so because Siklos collated bot
 ## Question spreadsheet
 The STEP questions spreadsheet is meant to be printed and the relevant box ticked off when you complete that question. If you're keen, you may want to try colour coding your boxes (green for completed/yellow for so and so and red for having to come back to it). You can also potentially give yourself a tentative score out of 20 in the boxes as another idea. I found this useful when I was preparing for STEP, you of course, don't need to use it if you don't feel like. 
 
-# Grade Boundaries
-## Table Form
+## Grade Boundaries
+### Table Form
 
 ![Table of Boundaries](https://github.com/mzjp2/step-resources/raw/master/Assets/Boundaries%20Table.png)
+
+### Graphs
+
+
 
 ### Good luck!
