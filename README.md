@@ -3,8 +3,10 @@ This is a collation of freely and publicly available resources for STEP Prep col
 
 ### [Download this repository](https://github.com/mzjp2/step-resources/archive/master.zip)
 
+# Forums
+
 ## STEP Prep Thread
-The current STEP Prep thread can be found here. Previous versions are listed below:
+The current [STEP Prep Thread]() can be found [here](). Previous versions are listed below:
 
 - STEP Prep Thread 2017
 - STEP Prep Thread 2016 (Mark. 1)
@@ -14,6 +16,13 @@ The current STEP Prep thread can be found here. Previous versions are listed bel
 - STEP Prep Thread 2013
 
 The main post in the threads contain various useful information, from links to solutions, to a FAQ and advice to anything else you could possibly want to know. If not, you may simply ask your question on the thread. 
+
+_Disclaimer:_ I am the thread owner and maintainer for the majority of the threads.
+
+## Cambridge STEP Support Programme
+The [Cambridge STEP Support Programme](https://maths.org/step/) (that's a mouthful) is a Cambridge-run initiative to help university applicants develop their advanced mathematical problem solving skills and prepare for the STEP examinations. They offer various assignments to ease you into the STEP style and can be a valuable resource. They also [have a forum](https://maths.org/step/forum) where anybody can participate. You are free to ask for help regarding any of the assignments or STEP on there. 
+
+_Disclaimer:_ I am a mentor on the programme. 
 
 ## Question Papers
 Every year of STEP papers from the specimen in 1983 to STEP 2017 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
