@@ -6,7 +6,7 @@ This is a collation of freely and publicly available resources for STEP Prep col
 # Forums
 
 ## STEP Prep Thread
-The current [STEP Prep Thread]() can be found [here](). Previous versions are listed below:
+The current [STEP Prep Thread](https://www.thestudentroom.co.uk/showthread.php?t=5537494) can be found [here](https://www.thestudentroom.co.uk/showthread.php?t=5537494).
 
 The main post in the threads contain various useful information, from links to _all_ solutions, to a FAQ and advice regarding STEP and the application process for maths at Cambridge. If you cannot find what you're looking for, please use the thread to ask for help. It's a friendly and collaborative environment and greatly helped me when I was doing STEP in 2015 and 2016.
 
