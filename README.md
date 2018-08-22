@@ -8,9 +8,9 @@ This is a collation of freely and publicly available resources for STEP Prep col
 ## STEP Prep Thread
 The current [STEP Prep Thread]() can be found [here](). Previous versions are listed below:
 
-The main post in the threads contain various useful information, from links to solutions, to a FAQ and advice regarding STEP and the application process for maths at Cambridge. If you cannot find what you're looking for, please use the thread to ask for help. It's a friendly and collaborative environment and greatly helped me when I was doing STEP in 2015 and 2016.
+The main post in the threads contain various useful information, from links to _all_ solutions, to a FAQ and advice regarding STEP and the application process for maths at Cambridge. If you cannot find what you're looking for, please use the thread to ask for help. It's a friendly and collaborative environment and greatly helped me when I was doing STEP in 2015 and 2016.
 
-_Disclaimer:_ I am the thread owner and maintainer for the majority of the threads. (Zacken)
+_Disclaimer:_ I am the thread owner and maintainer for the thread (as well as a few of the previous incarnations). (Zacken)
 
 ## Cambridge STEP Support Programme
 The [Cambridge STEP Support Programme](https://maths.org/step/) (that's a mouthful) is a Cambridge-run initiative to help university applicants develop their advanced mathematical problem solving skills and prepare for the STEP examinations. They offer various assignments to ease you into the STEP style and can be a valuable resource. They also [have a forum](https://maths.org/step/forum) where anybody can participate. You are free to ask for help regarding any of the assignments or STEP on there. 
