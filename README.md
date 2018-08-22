@@ -8,14 +8,7 @@ This is a collation of freely and publicly available resources for STEP Prep col
 ## STEP Prep Thread
 The current [STEP Prep Thread]() can be found [here](). Previous versions are listed below:
 
-- STEP Prep Thread 2017
-- STEP Prep Thread 2016 (Mark. 1)
-- STEP Prep Thread 2016 (Mark. 2)
-- STEP Prep Thread 2015 
-- STEP Prep Thread 2014
-- STEP Prep Thread 2013
-
-The main post in the threads contain various useful information, from links to solutions, to a FAQ and advice to anything else you could possibly want to know. If not, you may simply ask your question on the thread. 
+The main post in the threads contain various useful information, from links to solutions, to a FAQ and advice regarding STEP and the application process for maths at Cambridge. If you cannot find what you're looking for, please use the thread to ask for help. It's a friendly and collaborative environment and greatly helped me when I was doing STEP in 2015 and 2016.
 
 _Disclaimer:_ I am the thread owner and maintainer for the majority of the threads. (Zacken)
 
