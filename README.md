@@ -20,7 +20,7 @@ _Disclaimer:_ I am a mentor on the programme. (mzjp2)
 # Resources
 
 ## Question Papers
-Every year of STEP papers from the specimen in 1983 to STEP 2017 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
+Every year of STEP papers from the specimen in 1983 to STEP 2018 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
 
 ## Specification changes
 STEP will be undergoing a [specification change](https://www.admissionstesting.org/for-test-takers/step/about-step/) in 2019 onwards. This is no cause for alarm, the style of STEP will still be broadly similar, there will just be a rearrangement of content to tailor for the new A-Level linear syllabi. These past papers will still be instrumental in preparation and still very useful. 
