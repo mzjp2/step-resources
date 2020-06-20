@@ -20,10 +20,10 @@ _Disclaimer:_ I am a mentor on the programme. (mzjp2)
 # Resources
 
 ## Question Papers
-Every year of STEP papers from the specimen in 1983 to STEP 2018 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
+Every year of STEP papers from the specimen in 1983 to STEP 2019 is currently in this repository. Where available, the hints and solutions and examiner reports have also been provided.
 
 ## Specification changes
-STEP will be undergoing a [specification change](https://www.admissionstesting.org/for-test-takers/step/about-step/) in 2019 onwards. This is no cause for alarm, the style of STEP will still be broadly similar, there will just be a rearrangement of content to tailor for the new A-Level linear syllabi. These past papers will still be instrumental in preparation and still very useful. 
+STEP has undergone a [specification change](https://www.admissionstesting.org/for-test-takers/step/about-step/) in 2019 onwards. This is no cause for alarm, the style of STEP will still be broadly similar, there will just be a rearrangement of content to tailor for the new A-Level linear syllabi. These past papers will still be instrumental in preparation and still very useful. 
 
 The [2019 specification](https://www.admissionstesting.org/Images/47831-step-specification-rebranded-.pdf) has been released.
 
@@ -41,20 +41,20 @@ The STEP questions spreadsheet is meant to be printed and the relevant box ticke
 ## Grade Boundaries
 ### Table Form
 
-![Table of Boundaries](https://github.com/mzjp2/step-resources/raw/master/Assets/Boundaries%20Table.png)
+![Table of Boundaries](./static/Boundaries%20Table.png)
 
 ### Graphs
 
 #### STEP I boundaries
 
-![STEP I Boundary graph](https://github.com/mzjp2/step-resources/raw/master/Assets/step-1-chart.png)
+![STEP I Boundary graph](./static/step-1-chart.png)
 
 #### STEP II boundaries
 
-![STEP I Boundary graph](https://github.com/mzjp2/step-resources/raw/master/Assets/step-2-char.png)
+![STEP I Boundary graph](./static/step-2-chart.png)
 
 #### STEP III boundaries
 
-![STEP I Boundary graph](https://github.com/mzjp2/step-resources/raw/master/Assets/step-3-chart.png)
+![STEP I Boundary graph](./static/step-3-chart.png)
 
 ### Good luck!
