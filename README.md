@@ -41,7 +41,7 @@ The STEP questions spreadsheet is meant to be printed and the relevant box ticke
 ## Grade Boundaries
 ### Table Form
 
-![Table of Boundaries](./static/Boundaries\ Table.png)
+![Table of Boundaries](./static/Boundaries%20Table.png)
 
 ### Graphs
 
