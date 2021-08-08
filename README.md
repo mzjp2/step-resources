@@ -25,9 +25,9 @@ Every year of STEP papers from the specimen in 1983 to STEP 2019 is currently in
 ## Specification changes
 STEP has undergone a [specification change](https://www.admissionstesting.org/for-test-takers/step/about-step/) in 2019 onwards. This is no cause for alarm, the style of STEP will still be broadly similar, there will just be a rearrangement of content to tailor for the new A-Level linear syllabi. These past papers will still be instrumental in preparation and still very useful. 
 
-The [2019 specification](https://www.admissionstesting.org/Images/47831-step-specification-rebranded-.pdf) has been released.
+The [2021 specification](https://www.admissionstesting.org/Images/47831-step-specification-2021.pdf) has been released.
 
-A [diff of the two new and old specification](https://maths.org/step/sites/maths.org.step/files/assignments/STEP%20spec%20mapping%20document.pdf) has also been provided by the step.maths.org team. 
+A [diff of the two new and old specification](https://maths.org/step/sites/maths.org.step/files/assignments/STEP%20spec%20mapping%20document%202020.pdf) has also been provided by the step.maths.org team. 
 
 ## Markschemes
 The years that have official markschemes published have their markschemes included in the repository. I am working on adding various markschemes for years in which the markschemes were released via FoI requests or the like. 
